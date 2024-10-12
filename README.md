@@ -8,6 +8,6 @@
     </a>
   </p> 
  
-  ![ide-la-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=ide-la-r&show_icons=true&theme=radical&cache_seconds=1800)
+  ![ide-la-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=ide-la-r&show_icons=true&theme=omni&cache_seconds=1800)
   
 </div>
