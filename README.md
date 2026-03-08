@@ -6,8 +6,5 @@
     <a href="#">
       <img src="https://skillicons.dev/icons?i=c,php,nodejs,py,java,js,css,git,bootstrap,react,vscode,linux,github,vim" />
     </a>
-  </p> 
- 
-  ![ide-la-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=ide-la-r&show_icons=true&theme=omni&cache_seconds=1800)
-  
+  </p>   
 </div>
