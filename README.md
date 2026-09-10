@@ -9,8 +9,8 @@
   </p>  
   <p align="center">
     <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" />
-    <img src="https://cdn.simpleicons.org/filament/FFAA00" height="40" alt="Filament" />
     <img src="https://cdn.simpleicons.org/livewire/4E56A6" height="40" alt="Livewire" />
     <img src="https://cdn.simpleicons.org/alpinedotjs/8BC0D0" height="40" alt="Alpine.js" />
+    <img src="https://cdn.simpleicons.org/filament/FFAA00" height="40" alt="Filament" />
   </p>
 </div>
